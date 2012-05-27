@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/bcm4329/bcm4329.ko := arm-eabi-ld -EL -r  -T /home/tim/Downloads/mitchtaydev-Thrive-Shiva-Kernel-ee65d90/linux-2.6/scripts/module-common.lds --build-id  -o drivers/net/wireless/bcm4329/bcm4329.ko drivers/net/wireless/bcm4329/bcm4329.o drivers/net/wireless/bcm4329/bcm4329.mod.o
